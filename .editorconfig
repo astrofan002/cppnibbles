@@ -1,0 +1,8 @@
+# To indent beautifully, use this one in your repos
+# more information at editorconfig.org
+
+root = true
+
+[*.{c, cpp, h}]
+indent_style = tab
+indent_size = 4

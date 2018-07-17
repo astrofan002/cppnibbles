@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication3", "ConsoleApplication3\ConsoleApplication3.vcxproj", "{CAC5C992-E223-4575-ADE6-B7708B90EB2A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cppnibbles", "src\cppnibbles.vcxproj", "{CAC5C992-E223-4575-ADE6-B7708B90EB2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E76F43F8-9017-43BC-9398-ED8A7A90EEF7}
+		SolutionGuid = {61C9C39F-9286-4823-8B21-9D21FC25A11D}
 	EndGlobalSection
 EndGlobal

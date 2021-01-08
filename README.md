@@ -1,7 +1,7 @@
 # cppnibbles
 Oversimplified version of the classic Snake/Nibbles. Based on QBasic Nibbles
 
-__**NOTE__ the Linux version [here]https://github.com/vinhtran99/nibbles
+__**NOTE__ the Linux version [here](https://github.com/vinhtran99/nibbles)
 
 Description
 -----------
